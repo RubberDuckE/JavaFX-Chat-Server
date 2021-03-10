@@ -1,5 +1,11 @@
 # JavaFX-Chat-Server
 
+### Authors: 
+Shaan Shekhar (github.com/sshekh7)
+Keegan Bain (github.com/RubberDuckE)
+
+---
+
 This project uses a separate Java Thread for each client connected to the server.
 Each client can send a message to a single client (one-to-one), a group of clients
 (one-to-many) or to all clients on the server (one-to-all). Each client also has a
