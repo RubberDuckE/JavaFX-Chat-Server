@@ -1,7 +1,7 @@
 # JavaFX-Chat-Server
 
 ### Authors: 
-Shaan Shekhar (github.com/sshekh7)
+Shaan Shekhar (github.com/sshekh7)  
 Keegan Bain (github.com/RubberDuckE)
 
 ---
